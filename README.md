@@ -1,3 +1,5 @@
-Meu primeiro site para ser enviado para o git hub.
+Meu segundo site para ser enviado para o git hub.
 
-Fazendo uma alteração para descrever melhor meu site.
+Fazendo uns testes para ver o que acontece.
+
+Aqui estou descrevendo alguma coisa.
